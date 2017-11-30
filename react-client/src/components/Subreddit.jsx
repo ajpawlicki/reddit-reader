@@ -10,7 +10,7 @@ export default (props) => {
      <div className="subreddit-name">{name}</div>
 
       <div>
-        {children.slice(0, 10).map((post, index) => {
+        {children.slice(0, 7).map((post, index) => {
           return <Post key={index} post={post} />
         })}
       </div>
