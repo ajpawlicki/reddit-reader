@@ -14,10 +14,10 @@ In your root directory, run `npm install`.
 * Then in new tab, run `npm run react-dev`.
 * Go to `localhost:5000` in your browser to use app.
 
-## How to use app
+## Using app
 * Search for subreddits by inputting topics in the textbox.
 * Upon form submission, a list of relative subreddits will render below form.
-* Click on subreddit name to add to end of catalog.
+* Click on subreddit name in list to add to end of catalog.
 * Click on title in a post to visit url.
 * Click on comments in a post to visit post's comments page on Reddit.
 * Delete subreddit in catalog by clicking delete button at bottom of subreddit.
